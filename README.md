@@ -1,6 +1,6 @@
 # Font Awesome for TeX
 
-### Original author's README
+### [Forked] README
 
 #fontawesome: high quality web icons#
 
