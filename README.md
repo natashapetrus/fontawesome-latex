@@ -1,3 +1,7 @@
+# Font Awesome for TeX
+
+### Original author's README
+
 #fontawesome: high quality web icons#
 
 The **fontawesome** package grants access to 634 web-related icons provided by
